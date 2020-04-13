@@ -1,1 +1,1 @@
-https://public.tableau.com/profile/aracely3957#!/vizhome/CitiBikeAnalyticsJC-2019/Dashboard1?publish=yes
+https://public.tableau.com/views/CitiBikeAnalyticsJC-2019/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link
